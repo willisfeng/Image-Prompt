@@ -56,7 +56,7 @@ const copy = {
     eyebrow: 'Live GPT-Image2 prompt gallery',
     title: 'From viral images to reusable prompts.',
     subtitle:
-      'A visual workspace for GPT-Image2 creation: browse real cases, copy prompts.',
+      'A visual workspace for Image creation: browse real cases, copy prompts.',
     explore: 'Explore cases',
     githubProject: 'GitHub project',
     sponsorProject: 'API',
@@ -257,18 +257,18 @@ const copy = {
     limit: (count) => `Showing the first ${count} results for speed. Use search or filters to narrow the gallery.`
   },
   zh: {
-    loading: '正在加载 GPT-Image2 案例...',
+    loading: '正在加载Image案例...',
     brand: 'Image Prompt',
     navCases: '案例',
     navSkill: '技能',
     navTemplates: '模板',
     navCommunity: '交流群',
     navSponsor: 'API',
-    communityQrAlt: 'GPT-Image2 微信交流群邀请卡',
-    eyebrow: '实时更新的 GPT-Image2 提示词画廊',
+    communityQrAlt: '交流群邀请卡',
+    eyebrow: '实时更新的 Image 提示词画廊',
     title: '从爆款图片，到可复用 Prompt。',
     subtitle:
-      '一个面向 GPT-Image2 创作的可视化工作台：浏览真实案例、复制 Prompt。',
+      '一个面向 Image 创作的可视化工作台：浏览真实案例、复制 Prompt。',
     explore: '浏览案例',
     githubProject: 'GitHub 项目',
     sponsorProject: 'API',
@@ -281,11 +281,11 @@ const copy = {
     templateEyebrow: '20+ 套工业级提示词模板',
     templateTitle: '先用成熟模板起稿，再从案例库里继续 remix。',
     templateSubtitle:
-      '每套模板都从真实 GPT-Image2 案例里提炼，包含结构、约束和防坑经验，适合生产流程直接复用。',
+      '每套模板都从真实 Image 案例里提炼，包含结构、约束和防坑经验，适合生产流程直接复用。',
     templateKind: '提示词模板',
     openTemplate: '打开模板',
     skillEyebrow: 'Agent Skill',
-    skillTitle: '把 GPT-Image2 风格库装进 Claude Code 和 Codex。',
+    skillTitle: '把 Image 风格库装进 Claude Code 和 Codex。',
     skillSubtitle:
       '安装一个 skill，让 Agent 从本站同源的模板、风格、场景和防坑规则里自动选型，直接输出可复制的 GPT Image 2 prompt。',
     skillCommandLabel: '安装到本地 Agent',
